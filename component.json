@@ -1,0 +1,39 @@
+{
+  "name": "svgoverlay",
+  "repo": "https://github.com/yapcheahshen/svgoverlay",
+  "description": "hello world",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "ksanaforge/boot": "*",
+    "brighthas/bootstrap": "*",
+    "ksana/document": "*",
+    "ksanaforge/fileinstaller": "*",
+    "ksanaforge/checkbrowser": "*",
+    "ksanaforge/htmlfs": "*",
+    "spoike/reflux": "*",
+    "svgoverlay/main": "*",
+    "svgoverlay/comp1": "*",
+    "svgoverlay/textview": "*",
+    "svgoverlay/overlay": "*",
+    "svgoverlay/actions": "*",
+    "svgoverlay/stores": "*",
+    "svgoverlay/controls": "*"
+  },
+  "development": {},
+  "paths": [
+    "components",
+    "../components",
+    "../../components",
+    "../node_modules/",
+    "../../node_modules/"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "index.css"
+  ]
+}

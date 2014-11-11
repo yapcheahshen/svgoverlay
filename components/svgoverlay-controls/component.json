@@ -1,0 +1,13 @@
+{
+  "name": "controls",
+  "repo": "svgoverlay/controls",
+  "description": "hello world",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "styles": ["index.css"]
+}
